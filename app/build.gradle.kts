@@ -2,8 +2,10 @@ import java.io.FileInputStream
 import java.util.Properties
 
 plugins {
+    id("kotlin-kapt")
     alias(libs.plugins.android.application)
     alias(libs.plugins.jetbrains.kotlin.android)
+    alias(libs.plugins.google.dagger.hilt.android)
 }
 
 val appProps = Properties()
@@ -72,6 +74,17 @@ dependencies {
     implementation(libs.androidx.ui.graphics)
     implementation(libs.androidx.ui.tooling.preview)
     implementation(libs.androidx.material3)
+    implementation(platform(libs.squareup.retrofit2.bom))
+    implementation(libs.squareup.retrofit2.retrofit)
+    implementation(libs.squareup.retrofit2.moshi.converter)
+    implementation(platform(libs.squareup.okhttp3.bom))
+    implementation(libs.squareup.okhttp3.okhttp)
+    implementation(libs.squareup.okhttp3.logginginterceptor)
+    implementation(libs.squareup.moshi)
+    //ksp(libs.squareup.moshi.kotlin.codegen)
+    implementation(libs.google.dagger.hilt.android)
+    kapt(libs.google.dagger.hilt.android.compiler)
+    testImplementation(libs.squareup.okhttp3.mockwebserver)
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)
@@ -79,4 +92,8 @@ dependencies {
     androidTestImplementation(libs.androidx.ui.test.junit4)
     debugImplementation(libs.androidx.ui.tooling)
     debugImplementation(libs.androidx.ui.test.manifest)
+}
+
+kapt {
+    correctErrorTypes = true
 }
