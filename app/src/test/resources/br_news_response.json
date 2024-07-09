@@ -1,0 +1,283 @@
+{
+	"result": true,
+	"type": "br",
+	"lang": "en",
+	"show": 25,
+	"news": [
+		{
+			"id": "25df9f00-9d73-4654-b654-8c6208235c30",
+			"title": "Last Resort",
+			"tabTitle": "Chapter 4 Season 4",
+			"date": "2023-11-01T08:31:02+00:00",
+			"body": "The fate of the Island is at stake and thievery is the last resort! Steal back treasure from vampire Kado Thorne's fancy estates and return what belongs to the Island to thwart Thorne's ultimate plan.",
+			"adspace": "",
+			"image": "https://cdn-live.prm.ol.epicgames.com/prod/abfe73f9c6bb341c0d9aa9c8bee8b70655bb91147058c21ae8717df763229acf-3d3cf0bc-d8d4-4bb3-b7e9-4308a0409729.jpeg?width=1920",
+			"live": true,
+			"video": null
+		},
+		{
+			"id": "bb5a937b-f4e6-4e9c-8f22-b41665ac9c79",
+			"title": "Rocket Ram",
+			"tabTitle": "Rocket Ram",
+			"date": "2023-11-01T08:31:02+00:00",
+			"body": "Make a bold entrance and slam your way through the enemy's defenses with the Rocket Ram! Break down walls and launch to new heights as the perfect getaway is just one rocket jump away.",
+			"adspace": "",
+			"image": "https://cdn-live.prm.ol.epicgames.com/prod/b9484322a8f10b226ee90f91acb5f941f5e5d0e7917d7139c7e88bce0f5dea28-2b1f445e-5eba-4729-ab94-1b1ca311b8b5.jpeg?width=1920",
+			"live": true,
+			"video": null
+		},
+		{
+			"id": "c3a9fdb6-76be-4a0f-9eb4-bc49159c40ac",
+			"title": "Shield Breaker EMP",
+			"tabTitle": "Shield Breaker EMP",
+			"date": "2023-11-01T08:31:02+00:00",
+			"body": "Disruption at its finest! Lob a Shield Breaker EMP grenade to damage shields and bypass enemy defenses. Use the grenade to disrupt turrets, cameras, vehicles and more.",
+			"adspace": "",
+			"image": "https://cdn-live.prm.ol.epicgames.com/prod/b9484322a8f10b226ee90f91acb5f9416d90dfc1e413571ba1b204384519cd324dbb76fe7c7ec557acae42abba424ad7-82c22b2e-d9b9-4141-bf71-5f7c5ca42e7e.jpeg?width=1920",
+			"live": true,
+			"video": null
+		},
+		{
+			"id": "778febb8-02d6-4eb9-81b6-e279665c0dd0",
+			"title": "Survivor Medals",
+			"tabTitle": "Survivor Medals",
+			"date": "2023-11-01T08:31:02+00:00",
+			"body": "Complete Survivor Quests by outlasting opponents and getting eliminations! Stay standing to upgrade your Survivor Medal.",
+			"adspace": "",
+			"image": "https://cdn-live.prm.ol.epicgames.com/prod/e9f9f46118224303d57d6ba25ea27856a078e18418778b768979b4dd5b55036c3c404becc7b828678946b4561474ed019632431a29871cd78daf6cb0ebc8a8bf-f2b2cceb-e608-413e-8a9a-c897f0b20979.jpeg?width=1920",
+			"live": true,
+			"video": null
+		},
+		{
+			"id": "d2d07e5e-e4b5-4dc6-a2b8-adcbcc876f08",
+			"title": "Star Wars",
+			"tabTitle": "Star Wars",
+			"date": "2023-10-16T00:01:02+00:00",
+			"body": "Embrace the dark side, simply make your way though the galaxy as a bounty hunter, or fight for the light side.",
+			"adspace": "",
+			"image": "https://cdn-live.prm.ol.epicgames.com/prod/21ee7b16d52cba48520cdd7f2a1048056f42c3bfabc82b900b7d0b8a6be1da5f3bff75b736fee37fb72a075d9cfbd006-924f75c5-5eaf-456a-b1a8-719a4c1a1423.jpeg?width=1920",
+			"live": false,
+			"video": null
+		},
+		{
+			"id": "0538725c-f53e-4d8e-a218-23e812082b61",
+			"title": "FNCS Global Championship",
+			"tabTitle": "FNCS Global Championship",
+			"date": "2023-10-13T04:03:01+00:00",
+			"body": "The FNCS Global Championship begins October 13. Celebrate the event by competing in the FNCS Community Cup, grabbing the FNCS Global Championship Outfits, and watching the event in Legends Landing. More info: fn.gg/GC2023",
+			"adspace": "",
+			"image": "https://cdn-live.prm.ol.epicgames.com/prod/e56d257b8a5fe73b844d6075da651ff04f3c1b353df537d3fc01fd17d1124515132968aa0f626e246281d3cb85ee8a68f245091d2e549991eadf312ca6cf4c5a-9715eecf-6ef4-47a2-a9ab-e88846c47168.jpeg?width=1920",
+			"live": false,
+			"video": null
+		},
+		{
+			"id": "00830ef6-6e53-46b8-a5f0-563a49b08ead",
+			"title": "Ahsoka's Training",
+			"tabTitle": "Ahsoka's Training",
+			"date": "2023-10-10T13:03:01+00:00",
+			"body": "Accept Ahsoka's training to equip the white Jedi Training Lightsaber. While equipped, use Force abilities to sprint faster, double jump, and push and pull objects!",
+			"adspace": "",
+			"image": "https://cdn-live.prm.ol.epicgames.com/prod/874585d2d941680644933045c91d6e85bf150d3155c17bf1a00f742c20112203941a7757c901d7cc513eb12a88e29a15aa35a6322433359dd5cffcd7ce481589-a988aa13-a02a-4d41-b119-79e9c1b82164.jpeg?width=1920",
+			"live": false,
+			"video": null
+		},
+		{
+			"id": "43055db7-83f3-46d7-a181-f23c61e2207f",
+			"title": "Fortnitemares Returns",
+			"tabTitle": "Fortnitemares Returns",
+			"date": "2023-10-10T08:03:02+00:00",
+			"body": "The stakes have never been higher! Fortnitemares returns October 10.",
+			"adspace": "",
+			"image": "https://cdn-live.prm.ol.epicgames.com/prod/e613e87ad7be0ca386ac50a8d6259bef09de5daca490abc1b2e5d4deb74fc2160ba412a85d66313d01d49fa560da9235-c781bfbe-eb3f-4cf8-a715-811b32d134fe.jpeg?width=1920",
+			"live": false,
+			"video": null
+		},
+		{
+			"id": "de4e90a1-45cc-42ce-a981-83c6ce563ba3",
+			"title": "FNCS Global Championship",
+			"tabTitle": "FNCS Global Championship",
+			"date": "2023-10-07T04:03:02+00:00",
+			"body": "The FNCS Global Championship is coming in seven days. Jump into Legends Landing on October 13 and watch the best competitive players compete for the FNCS champions crown. More info: fn.gg/GC2023",
+			"adspace": "",
+			"image": "https://cdn-live.prm.ol.epicgames.com/prod/d6e7211ba391caa7ee0c9051c1a49b54baf598896eb0eb579d55c9bec50691835f735c4bef623e1ee1e237de9123e3df3bd90b5fa3510fb484ceb5fa2ea574dd-009fb725-fb1c-44f9-94e3-a4603d21ab7a.jpeg?width=1920",
+			"live": false,
+			"video": null
+		},
+		{
+			"id": "e23b607c-578a-4fdd-8af6-ad143c2bc3f8",
+			"title": "Jump Rope Jig",
+			"tabTitle": "Icon Series Emote",
+			"date": "2023-10-06T14:31:02+00:00",
+			"body": "Don’t skip a beat with moves from Lauren Jumps.",
+			"adspace": "",
+			"image": "https://cdn-live.prm.ol.epicgames.com/prod/ddfd6f7e8f24fcd74133f465c9a086e6823abe02854b0d6876dd0a16dd29ad44a8d34f831f1db452c7dbb2a84520ab102c7f4b5ae7cf5a8cd8049dbf86e9287a-85911807-798d-4fcf-bcc4-2c35edb3dfb7.jpeg?width=1920",
+			"live": false,
+			"video": "https://media.fortniteapi.io/videos/epic/en/klVeQDFlCLjfxTbPhF.mp4"
+		},
+		{
+			"id": "37aa6079-370d-4d42-aadb-b48e43719816",
+			"title": "Ed Sheeran at iHeartLand",
+			"tabTitle": "Ed Sheeran at iHeartLand",
+			"date": "2023-10-05T21:03:02+00:00",
+			"body": "Drop into iHeartLand by iHeartRadio and experience an immersive Ed Sheeran performance until October 9 at 3PM ET!",
+			"adspace": "",
+			"image": "https://cdn-live.prm.ol.epicgames.com/prod/69c6b99b649fa5f2c9847fa0a5469672ea6a79b5ef4b288f6d64775d5080038a-21136a50-ca9a-4723-bde8-7f03d316e1ae.jpeg?width=1920",
+			"live": false,
+			"video": null
+		},
+		{
+			"id": "986ab401-4dc0-42d8-96a0-6a18cfcdbd4d",
+			"title": "Starlit Emote",
+			"tabTitle": "Icon Series Emote",
+			"date": "2023-10-05T00:01:01+00:00",
+			"body": "Bust a move by moonlight with moves by Stone.",
+			"adspace": "",
+			"image": "https://cdn-live.prm.ol.epicgames.com/prod/8d22fab6a0eb2d6d9e94c1616e818ba1bbc1ad0cbe6f63e5abe13f762dd5863b50df798c5a8165a7eb69f6493f0d8adb-8a0c0f4b-0a33-40ee-8dd6-277b9c287193.jpeg?width=1920",
+			"live": false,
+			"video": "https://media.fortniteapi.io/videos/epic/en/VxzmGLitaoaIAiKIYF.mp4"
+		},
+		{
+			"id": "853963df-9764-479d-947b-f4d67195dc7b",
+			"title": "Jamila",
+			"tabTitle": "New Outfit",
+			"date": "2023-10-02T00:01:02+00:00",
+			"body": "Build modern invention from ancient insight.",
+			"adspace": "",
+			"image": "https://cdn-live.prm.ol.epicgames.com/prod/e07b870c4dc7cff5256cea7d557981273884dc9d0356954b0c5fc4786bfa588e-3fb405e0-7477-4522-a291-26b1ac95d6d3.jpeg?width=1920",
+			"live": false,
+			"video": null
+		},
+		{
+			"id": "9da25530-864c-4956-8327-849375b3e1c8",
+			"title": "Only Up Fortnite",
+			"tabTitle": "Discover Games",
+			"date": "2023-09-29T00:01:02+00:00",
+			"body": "Don't fall as you climb past every season of Fortnite Chapter 1 and make your way to the top in OnlyUp Fortnite, created by ARMY.",
+			"adspace": "",
+			"image": "https://cdn-live.prm.ol.epicgames.com/prod/0bb8aee8accbd8b929b5c8a06d4ea8262db9b4ab8b4f45346a586a716d1253c3-ae2b7767-27f8-4bca-a62b-c9359458dce4.jpeg?width=1920",
+			"live": false,
+			"video": null
+		},
+		{
+			"id": "4dfbc18f-a975-4683-8c48-223178516691",
+			"title": "Business Turret",
+			"tabTitle": "Business Turret",
+			"date": "2023-09-27T14:03:02+00:00",
+			"body": "It’s time to take a more hands-off approach. Throw down a Business Turret and watch it light up the competition!",
+			"adspace": "",
+			"image": "https://cdn-live.prm.ol.epicgames.com/prod/ddf8501087f93bfee3321201b107ed18ce5193c36d1fa92eb06b7eaaa606caea-6dd57e37-6d14-4e16-9c65-13f3d43c64b5.jpeg?width=1920",
+			"live": false,
+			"video": null
+		},
+		{
+			"id": "23288cd5-c790-4bc0-8bcb-02370a48f321",
+			"title": "Vanessuh Locker Bundle",
+			"tabTitle": "Vanessuh Locker Bundle",
+			"date": "2023-09-26T14:31:02+00:00",
+			"body": "Keep pushing forward with Vanessuh’s hand-picked Locker Bundle.",
+			"adspace": "",
+			"image": "https://cdn-live.prm.ol.epicgames.com/prod/40c8b0615ed936f8c8806b427f4d034b4ea4be6f836ba8634c4ae4c80a8d9be919fb45e6e4b5ec2ba7cb8b4b011fac41-b8f85695-7acb-4eda-bffc-8ac9709d7307.jpeg?width=1920",
+			"live": false,
+			"video": null
+		},
+		{
+			"id": "94751d4c-4173-4ff2-9267-fbf51f6bda89",
+			"title": "Week 4 Quests",
+			"tabTitle": "Weekly Quests",
+			"date": "2023-09-26T14:03:03+00:00",
+			"body": "Destroy structures with explosives, restore health or gain shields by consuming food and more in this week’s Quests!",
+			"adspace": "",
+			"image": "https://cdn-live.prm.ol.epicgames.com/prod/65dc4df2ab539b4cb0a35d8f696de4ea4e44a5aaf5b7e333095ae021ce9e235bd51adb703b1685fb88fb62c31a9920c7-4ef752ad-09df-4b25-bab6-18c5038ddd27.jpeg?width=1920",
+			"live": false,
+			"video": null
+		},
+		{
+			"id": "287d7627-7734-47a5-a9d6-38a21bd748fa",
+			"title": "Celebrating Women",
+			"tabTitle": "Free Items",
+			"date": "2023-09-26T14:03:03+00:00",
+			"body": "Shine bright and celebrate women with free cosmetics in the Item Shop, including the Heartburst Emote, Winner’s Heart Spray and more!",
+			"adspace": "",
+			"image": "https://cdn-live.prm.ol.epicgames.com/prod/c12291c7e27fc3b1e3767173793e65c24969b0b907060d1e1e5403fd0859c295-da965e84-b3b9-455c-b1a5-f2f4d94d0028.jpeg?width=1920",
+			"live": false,
+			"video": null
+		},
+		{
+			"id": "03d164bc-6775-4c26-b60c-d60d6e575303",
+			"title": "Celebrate Women Icon Radio",
+			"tabTitle": "Celebrate Women Icon Radio",
+			"date": "2023-09-26T14:03:03+00:00",
+			"body": "Turn up the volume and let the beat of the Icon Radio carry you away! Cruise the Island and tune into the Celebration Women 2023’s Icon Radio now until October 17. ",
+			"adspace": "",
+			"image": "https://cdn-live.prm.ol.epicgames.com/prod/e2a8d236ebd53a5d2be326f436f17c35e30a721e1557f174c32939696712e6c3-febacb0b-2a1e-4f3c-9473-7e79798815b3.jpeg?width=1920",
+			"live": false,
+			"video": null
+		},
+		{
+			"id": "c190be48-c850-43fb-9efe-e90d9cdbb6d8",
+			"title": "Birthday Quests",
+			"tabTitle": "Birthday Quests",
+			"date": "2023-09-26T13:03:03+00:00",
+			"body": "Be the life of the party! Celebrate Fortnite’s 6th birthday and complete Quests to earn the Birthday Dash Spray, Slice O’ Six Back Bling, and the Birthday Basher Pickaxe until September 26!",
+			"adspace": "",
+			"image": "https://cdn-live.prm.ol.epicgames.com/prod/74ac72e61df101f795f106021902c913cb83c935f978a65623349f0c24bad83d8848736c0586df9be4f4ac29e1b26124-a5f1905a-32d5-4870-a5ae-2a5c224159b1.jpeg?width=1920",
+			"live": false,
+			"video": null
+		},
+		{
+			"id": "7fd8b056-96fb-4fff-a015-5022a9b265a3",
+			"title": "COLOR CLIMB!",
+			"tabTitle": "Discover Games",
+			"date": "2023-09-26T08:03:02+00:00",
+			"body": "Ascend blocks, chain jumps together to hit streaks, and save progress with checkpoints in COLOR CLIMB!, created by GoodGamesStudios.",
+			"adspace": "",
+			"image": "https://cdn-live.prm.ol.epicgames.com/prod/20b435e2590e13d6093b2d2be64b9c082d8518f803fce1d8c17391c0c4161a20-a8ea681b-95ae-4077-b5f8-9c6fbbcb2c15.jpeg?width=1920",
+			"live": false,
+			"video": null
+		},
+		{
+			"id": "fb2e875a-0d28-4622-9f0e-3f15ce74175b",
+			"title": "Gear Up",
+			"tabTitle": "Gear Up",
+			"date": "2023-09-26T08:03:02+00:00",
+			"body": "A successful heist team is only as good as their tools! Break down walls and launch to new heights with the Rocket Ram, take a more hands-off approach with the Business Turret and make your getaway in the Nitro Fang.",
+			"adspace": "",
+			"image": "https://cdn-live.prm.ol.epicgames.com/prod/ecd5ee035e21539c8bde771827eb5b342699d46471e605b3e62d05fe832f2ad2-f545d8a4-258e-4d9b-aa66-95c324ff56b9.jpeg?width=1920",
+			"live": false,
+			"video": "https://media.fortniteapi.io/videos/epic/en/OkQPKuSUcTOwJADHgt.mp4"
+		},
+		{
+			"id": "ead6e871-9d3d-461a-8b9a-9819e11c09a1",
+			"title": "Get Far Out",
+			"tabTitle": "Get Far Out",
+			"date": "2023-09-25T14:31:02+00:00",
+			"body": "Don't let combat hinder your style, add in a splash of color!",
+			"adspace": "",
+			"image": "https://cdn-live.prm.ol.epicgames.com/prod/e2a49db7390eb4f880af2a7093a1584e44c945d747ed5f607ec0284784b6e052cca58bdab2c4563762ec6e95ece6372e-4722469a-ba75-460a-8d34-e231b5bf9c90.jpeg?width=1920",
+			"live": false,
+			"video": null
+		},
+		{
+			"id": "ab205774-e7ea-4f49-ac97-446d735e7d91",
+			"title": "Burnout",
+			"tabTitle": "New Style",
+			"date": "2023-09-25T00:01:01+00:00",
+			"body": "All roads lead to victory.",
+			"adspace": "",
+			"image": "https://cdn-live.prm.ol.epicgames.com/prod/411a6ecd79ff70422a0ee8e662d084990f5737bb4b37a54383219e97eb327a93116a7a3932504ccd5353f0e4770fb14d-726b95ca-55fe-4988-845a-50a29687bb21.jpeg?width=1920",
+			"live": false,
+			"video": null
+		},
+		{
+			"id": "9cca3341-4601-4aeb-83c5-d2d48539cf9f",
+			"title": "Giova Locker Bundle",
+			"tabTitle": "Giova Locker Bundle",
+			"date": "2023-09-24T00:01:02+00:00",
+			"body": "Bring your gill game with Giova’s hand-picked Locker Bundle.",
+			"adspace": "",
+			"image": "https://cdn-live.prm.ol.epicgames.com/prod/56bb83736a27df9b0ec016b34234eb712b77827a64b7187e5b134d1c10ed96289f108f3dd712ad33ddafb49c65de9bb2-6e133579-ce96-48fa-be3e-8be1f0825291.jpeg?width=1920",
+			"live": false,
+			"video": null
+		}
+	]
+}

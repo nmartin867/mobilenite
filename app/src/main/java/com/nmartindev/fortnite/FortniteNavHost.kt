@@ -5,7 +5,9 @@ import androidx.compose.ui.Modifier
 import androidx.navigation.NavHostController
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
+import androidx.hilt.navigation.compose.hiltViewModel
 import com.nmartindev.fortnite.news.ui.NewsScreen
+import com.nmartindev.fortnite.news.viewmodel.NewsViewModel
 
 @Composable
 fun FortniteNavHost(
@@ -18,7 +20,8 @@ fun FortniteNavHost(
         modifier = modifier
     ) {
         composable(route = News.route) {
-            NewsScreen()
+            val viewModel = hiltViewModel<NewsViewModel>()
+            NewsScreen(viewModel)
         }
     }
 }
